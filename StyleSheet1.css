@@ -1,13 +1,25 @@
-﻿li{
-  list-style-type:none;
+﻿li {
+    list-style-type: none;
 }
-p{
-  padding-left:10px;
+
+p {
+    padding-left: 10px;
 }
-.li{
-  padding-left:15px;
+
+.li {
+    padding-left: 15px;
 }
-.ul{
-  border-bottom: 1px solid; 
-  padding-bottom: 10px;
+
+.ul {
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
+}
+
+.styling {
+    padding-left: 25px;
+}
+
+.borderstyle {
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
 }
