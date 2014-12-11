@@ -7,3 +7,7 @@ p{
 .li{
   padding-left:15px;
 }
+.ul{
+  border-bottom: 1px solid; 
+  padding-bottom: 10px;
+}
